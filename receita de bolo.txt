@@ -7,4 +7,6 @@ fermento
 açúcar
 chocolate
 baunilha
-
+leite condensado
+oleo
+cenoura
